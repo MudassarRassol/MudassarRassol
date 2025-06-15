@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Mudassar+Rasool!;MERN+Stack+Developer+%7C+Next.js+%2B+PostgreSQL+Enthusiast;Let's+build+something+awesome+together!" alt="Typing SVG" />
+</p>
+
 <h1 align="center">🧑‍💻 MERN Stack Developer | 🚀 Next.js & PostgreSQL Enthusiast</h1>
 
 <p align="center">💻 Building fast, scalable, and modern web apps from <b>idea to launch</b></p>
@@ -30,10 +34,10 @@
 ### 📬 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/mudassar-rasool-b15130300" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/mudassar_rasool_7/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
