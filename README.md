@@ -1,4 +1,5 @@
-<p align="center">
+<div style="background-color = black" >
+  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Mudassar+Rasool!;MERN+Stack+Developer+%7C+Next.js+%2B+PostgreSQL+Enthusiast;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
 
@@ -45,3 +46,5 @@
 ---
 
 <h3 align="center">📢 Let’s connect and collaborate on something amazing!</h3>
+
+</div>
